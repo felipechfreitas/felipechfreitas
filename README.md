@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou o Felipe Chagas 👋
 
 <!--
 **felipechfreitas/felipechfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/felipechfreitas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipechfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipechfreitas&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
