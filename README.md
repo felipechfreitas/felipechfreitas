@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Sistema de Informação (8 Semestre)<br>- Estagiário de Customer Support IT na Cummins Brasil<br>- Em busca de uma vaga na área de TI.<br>- Atualmente aprendendo sobre Android Studio, Oracle EBS e SQL.</p>
+<p align="left">- Estudante de Sistema de Informação (8 Semestre)<br>- Assistente Fiscal III na Cummins Brasil<br>- Em busca de uma vaga na área de TI.<br>- Atualmente aprendendo sobre Android Studio, Oracle EBS, SQL e PYTHON.</p>
 
 ###
 
