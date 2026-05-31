@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">- Graduado em Sistemas de Informação pela UNICID<br>- Assistente Fiscal III na Cummins Brasil.<br></p>
+<p align="left">- Graduado em Sistemas de Informação e atualmente atuando na área administrativa/fiscal.<br>
+- Estou em transição para a área de desenvolvimento de software, com foco em Python, automação, banco de dados e desenvolvimento de aplicações.<br>
+- Atualmente estou construindo projetos práticos e compartilhando minha evolução através do GitHub.<br></p>
 
 ###
 
@@ -11,6 +13,7 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -37,7 +40,7 @@
   <a href="Fechfreitas" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="felipe_chagas_freitas@hotmail.com" target="_blank">
+  <a href="mailto:felipe_chagas_freitas@hotmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
