@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Sistema de Informação (8 Semestre)<br>- Assistente Fiscal III na Cummins Brasil.<br>- Atualmente aprendendo sobre Android Studio, Oracle EBS, SQL e PYTHON.</p>
+<p align="left">- Graduado em Sistemas de Informação pela UNICID<br>- Assistente Fiscal III na Cummins Brasil.<br></p>
 
 ###
 
