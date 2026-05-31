@@ -29,6 +29,31 @@
 
 ###
 
+<h2 align="left">Projetos em Desenvolvimento</h2>
+
+<p align="left">
+
+📌 Python Calculator Project<br>
+Projeto desenvolvido para praticar:
+- Funções
+- Loops
+- Tratamento de erros
+- Menus interativos
+- Git e GitHub
+
+<br><br>
+
+📌 Python Task Manager<br>
+Projeto desenvolvido para praticar:
+- Listas
+- Loops FOR
+- append()
+- Estruturas de repetição
+
+</p>
+
+###
+
 <h2 align="left">Social Media</h2>
 
 ###
